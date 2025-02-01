@@ -10,7 +10,7 @@
     
     <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/Sje7UvfOX2zKj56lXRUuL9/TWVC-2?node-id=1-2&embed-host=share" allowfullscreen></iframe>
     <iframe width="100%" height="600"
-        src="https://www.figma.com/embed?embed_host=share&url=[SİZİN_FİGMA_LİNKİNİZ](https://www.figma.com/design/Sje7UvfOX2zKj56lXRUuL9/TWVC-2?node-id=1-2&t=hTeKhghFoUntic2o-1)" 
+        src="https://www.figma.com/embed?embed_host=share&url=[(https://www.figma.com/design/Sje7UvfOX2zKj56lXRUuL9/TWVC-2?node-id=1-2&t=hTeKhghFoUntic2o-1)"]
         allowfullscreen>
     </iframe>
     
